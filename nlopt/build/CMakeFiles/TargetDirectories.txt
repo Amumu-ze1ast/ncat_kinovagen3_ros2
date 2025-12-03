@@ -1,0 +1,10 @@
+/home/live4jesus/ncat_kinovagen3_husky/src/nlopt/build/CMakeFiles/generate-cpp.dir
+/home/live4jesus/ncat_kinovagen3_husky/src/nlopt/build/CMakeFiles/nlopt.dir
+/home/live4jesus/ncat_kinovagen3_husky/src/nlopt/build/CMakeFiles/package.dir
+/home/live4jesus/ncat_kinovagen3_husky/src/nlopt/build/CMakeFiles/package_source.dir
+/home/live4jesus/ncat_kinovagen3_husky/src/nlopt/build/CMakeFiles/edit_cache.dir
+/home/live4jesus/ncat_kinovagen3_husky/src/nlopt/build/CMakeFiles/rebuild_cache.dir
+/home/live4jesus/ncat_kinovagen3_husky/src/nlopt/build/CMakeFiles/list_install_components.dir
+/home/live4jesus/ncat_kinovagen3_husky/src/nlopt/build/CMakeFiles/install.dir
+/home/live4jesus/ncat_kinovagen3_husky/src/nlopt/build/CMakeFiles/install/local.dir
+/home/live4jesus/ncat_kinovagen3_husky/src/nlopt/build/CMakeFiles/install/strip.dir

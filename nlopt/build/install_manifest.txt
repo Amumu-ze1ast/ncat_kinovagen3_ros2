@@ -1,0 +1,13 @@
+/usr/local/lib/pkgconfig/nlopt.pc
+/usr/local/include/nlopt.h
+/usr/local/include/nlopt.hpp
+/usr/local/lib/libnlopt.so.1.0.0
+/usr/local/lib/libnlopt.so.1
+/usr/local/lib/libnlopt.so
+/usr/local/share/man/man3/nlopt.3
+/usr/local/share/man/man3/nlopt_minimize.3
+/usr/local/share/man/man3/nlopt_minimize_constrained.3
+/usr/local/lib/cmake/nlopt/NLoptLibraryDepends.cmake
+/usr/local/lib/cmake/nlopt/NLoptLibraryDepends-release.cmake
+/usr/local/lib/cmake/nlopt/NLoptConfig.cmake
+/usr/local/lib/cmake/nlopt/NLoptConfigVersion.cmake
