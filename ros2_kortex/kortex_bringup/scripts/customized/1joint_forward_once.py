@@ -36,15 +36,10 @@ class SimpleGen3Command(Node):
         )
 
         # Desired joint targets
-        self.desired_positions = np.array([
-            0.0,     # joint_1
-            0.0,    # joint_2
-            0.0,     # joint_3
-            0.0,     # joint_4
-            0.0,     # joint_5
-            0.0,     # joint_6
-            0.0      # joint_7
-        ], dtype=float)
+        self.desired_positions = np.array(
+            #[0, 0, 0, 0, 0, 0, 0], 
+            [1.1633, 1.4751, -0.9967, -0.5274, -2.118, 1.1418, 1.4918],
+            dtype=float)
 
         # Flags
         self.sent = False
